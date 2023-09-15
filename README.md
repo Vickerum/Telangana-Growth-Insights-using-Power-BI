@@ -38,6 +38,7 @@ Total investment across sectors.
 Document registration counts and revenue.
 Transportation data, including fuel consumption and seat capacity.
 Geospatial mapping of district-specific data.
+Challans.
 
 # Contributing
 This project is open to contributions. If you have insights, suggestions, or additional data sources that can enhance our analysis, please feel free to contribute.
